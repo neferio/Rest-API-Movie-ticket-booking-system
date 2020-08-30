@@ -14,7 +14,7 @@ app.get("/",(req,res)=>{
     res.json({message: " Siddharth kandola assignment"})
 })
 
-// For routes
+// For routes 
 
 const router=require('./router/route')
 app.use(router)
