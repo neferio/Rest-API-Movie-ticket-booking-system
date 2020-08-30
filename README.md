@@ -7,23 +7,6 @@ The entire application is contained within the src folder.
 # REST API
 Given below are the request used to cover various business issues
 
-## Response Codes 
-### Response Codes
-```
-200: Success
-400: Bad request
-401: Unauthorized
-404: Cannot be found
-405: Method not allowed
-```
-### Error Codes Details
-```
-100: Bad Request
-110: Unauthorized
-120: User Authenticaion Invalid
-130: Parameter Error
-```
-
 ## Book a ticket
 
 ### Request
@@ -235,6 +218,23 @@ Given below are the request used to cover various business issues
         "message": "Error retrieving ticket with id999"
     }
    
+
+## Response Codes 
+### Response Codes
+```
+200: Success
+400: Bad request
+401: Unauthorized
+404: Cannot be found
+405: Method not allowed
+```
+### Error Codes Details
+```
+100: Bad Request
+110: Unauthorized
+120: User Authenticaion Invalid
+130: Parameter Error
+```
 
 
 ## Requirements
