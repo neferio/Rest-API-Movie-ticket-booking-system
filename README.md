@@ -1,4 +1,4 @@
-# zomentum-backend-siddharth_kandola
+# Movie Ticket Booking System
 
 REST interface for a movie Theatre ticket booking system
 
